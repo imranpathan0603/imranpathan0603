@@ -26,16 +26,20 @@ While I work across frontend & backend, my main interest lies in **backend devel
 
 ---
 
-## 🌐 Connect With Me
+### 🤝 Let’s Connect
 
-<p>
-<a href="https://linkedin.com/in/imran pathan">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:studyhub.imran@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+ <a href="https://linkedin.com/in/imran pathan">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="mailto:studyhub.imran@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://leetcode.com/Imran_pathan07">
+   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+ </a>
 </p>
+
 
 ---
 
